@@ -1,4 +1,4 @@
-
+<!-- 
 # 💻 Experience
 - *2024.05 - 2025.12.31*, Algorithm Engineer, Peng Cheng Laboratory
 - *2025.05.01 - 2025.06.16*, Adjunct Lecturer (School of Artificial Intelligence), Lijiang Culture and Tourism College
@@ -11,4 +11,4 @@
 - *2024.11 - Present*, Pretrained foundation model for chip routing generation and evaluation (DAC 2026)
 - *2024.10 - 2025.03*, Core module development for the open-source AiEDA platform
 - *2024.05 - 2024.12*, Parallel macro placement with reinforcement learning and Transformers
-- *2023.11 - 2025.05*, Transfer learning and parallel optimization for placement parameter autotuning (TODAES 2025)
+- *2023.11 - 2025.05*, Transfer learning and parallel optimization for placement parameter autotuning (TODAES 2025) -->

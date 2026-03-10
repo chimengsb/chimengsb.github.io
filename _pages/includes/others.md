@@ -4,7 +4,7 @@
 - **Deep Learning**: PyTorch (research prototyping, training, and deployment); solid foundation in ML/DL
 - **Tooling**: Linux, Vim/Neovim, CMake; proficient with debugging and version control
 
-# 💬 Others
+<!-- # 💬 Others
 - English: CET-6
 - GitHub: [SivanLaai](https://github.com/SivanLaai) ⭐1.2k+
-- Blog: [blog.laais.cn](https://blog.laais.cn)
+- Blog: [blog.laais.cn](https://blog.laais.cn) -->

@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xinhua Lai (赖心华)"
-description              : "Focusing on AI for EDA and large generation model."
-repository               : "SivanLaai/SivanLaai.github.io"
+title                    : "Miao Liu (刘淼)"
+description              : "Focusing on AI for EDA and logic synthesis."
+repository               : "chimengsb/chimengsb.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  : codeva-qROqvspRB6
 
 # Site Author
 author:
-  name             : "Xinhua Lai (赖心华)"
-  avatar           : "images/avatar.jpg"
+  name             : "Miao Liu (刘淼)"
+  avatar           : "images/9999.jpg"
   bio              : ""
   location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=RSKRAUsAAAAJ"
-  email            : "laixinhua21@mails.ucas.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=hW91G0IAAAAJ&hl=en"
+  email            : "liumiao20@mails.ucas.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SivanLaai"
+  github           : "chimengsb"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : 
-  orcid            : "https://orcid.org/0009-0005-6514-2151"
+  orcid            : "https://orcid.org/0000-0001-9075-8007"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
